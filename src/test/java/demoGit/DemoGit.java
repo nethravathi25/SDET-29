@@ -18,6 +18,8 @@ public class DemoGit {
 
 		System.out.println("Hi this is user 2 second commit--git conflict");
 		
+		System.out.println("Hi this is user 1 in Branch");
+		
 		
 	
 
