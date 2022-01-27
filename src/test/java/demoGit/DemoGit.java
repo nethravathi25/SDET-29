@@ -20,13 +20,7 @@ public class DemoGit {
 		
 		System.out.println("Hi this is user 1 in Branch");
 		
-		
-	
-
-		
-		
-		
-		
+		System.out.println("hai");
 		
 	}
 
